@@ -1,5 +1,6 @@
- Esta es la historia de Camilo Olaya 
+git log Esta es la historia de Camilo Olaya 
 
  Camilo nació en colombia y tiene 22 años 
 
- Mañana nos enfocaremos en su desarrollo profesional
+ Mañana nos enfocaremos en su desarrollo profesional 
+ y en como mejoró en git 
