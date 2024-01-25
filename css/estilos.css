@@ -1,5 +1,6 @@
 body
 {
+    background: black;
     color: blue;
     text-align: left;
     font-family: "Arial";
@@ -7,7 +8,8 @@ body
 
 #cabecera
 {
-    background: #33a;
+    background: #33a url("../imagenes/space.jpg") no-repeat center center;
+    box-shadow: 0px 2px 20px 0px rgb(0,0,0,0,5);
     color: white
     padding: 0.5em;
     
@@ -26,6 +28,7 @@ body
 }
 #post
 {
+    background: white;
     padding: lem;
 
 }
