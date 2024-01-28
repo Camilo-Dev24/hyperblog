@@ -5,5 +5,7 @@ git log Esta es la historia de Camilo Olaya
 la otra versión de camilo tiene 32 años
 Aquí clonó una versión de las primeras clases
 |
+Main 1
+
  Mañana nos enfocaremos en su desarrollo profesional 
  y en como mejoró en git 
