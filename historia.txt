@@ -7,5 +7,7 @@ Aquí clonó una versión de las primeras clases
 |
 Main 1
 
+Main 2
+
  Mañana nos enfocaremos en su desarrollo profesional 
  y en como mejoró en git 
