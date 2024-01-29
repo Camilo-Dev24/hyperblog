@@ -7,5 +7,6 @@ En este curso se aprendio:
 - Manejo del repositorio GitHub 
 - Desempeñarse en el ambiene laboral
 - Buenas prácticas y malas practicas
+- Creado por camilo el mejor DevOps 
 
 En sintesis, el curso fue una aventura y un desafio para la mente y un aprendizaje para el futuro como DevOps
